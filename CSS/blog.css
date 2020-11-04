@@ -1,0 +1,204 @@
+div.foto {
+	width: 900px;
+	min-height: 400px;
+	margin: 0 auto;
+}
+
+div.foto > div > div.datta > h1 {
+	color: #f7b80a;
+	margin: 0;
+	height: 400px;
+}
+div.foto > div > div.menu {
+	font-size: 150%;
+	padding: 10px;
+	border-bottom: 2px solid #7d26cd;
+}
+div.blog-content > div > div.blog-header {
+	width: 800px;
+	min-height: 350px;
+	margin: 40px 20px 20px 40px;
+	padding: 5px;
+	border-radius: 30px;
+	box-shadow: 10px 10px 30px #5d5d5d;
+	background-color: #ffff6c;
+	transition: 900ms;
+}
+div.blog-content > div > div.blog-header:hover {
+	background-color: #f4f710;
+	transition: 900ms;
+}
+div.odin {
+	padding: 0 20px 20px 40px;
+}
+
+div.blog-content > div > div.blog-header > div.odin {
+	float: left;
+	width: 20%;
+}
+div.blog-content > div > div.blog-header > div.dva {
+	float: left;
+	width: 60%;
+}
+div.blog-content > div > div.blog-header > div.tri {
+	clear: both;
+}
+div.glava-vtoraya {
+	width: 800px;
+	min-height: 370px;
+	margin: 50px 20px 20px 40px;
+	padding: 5px;
+	border-radius: 30px;
+	box-shadow: 10px 10px 30px #5d5d5d;
+	background-color: #98f5ff;
+	transition: 900ms;
+}
+div.glava-vtoraya:hover {
+	background-color: #36f5ff;
+	transition: 900ms;
+}
+div.dva-odin {
+	padding: 0 20px 20px 40px;
+}
+
+div.blog-content > div.glava-vtoraya > div.dva-odin {
+	float: left;
+	width: 26%;
+}
+div.blog-content > div.glava-vtoraya > div.dva-dva {
+	float: left;
+	width: 60%;
+}
+div.blog-content > div.glava-vtoraya > div.dva-tri {
+	clear: both;
+}
+div.glava-try {
+	width: 800px;
+	min-height: 250px;
+	margin: 50px 20px 20px 40px;
+	padding: 5px;
+	border-radius: 30px;
+	box-shadow: 10px 10px 30px #5d5d5d;
+	background-color: #f983fa;
+	transition: 900ms;
+}
+div.glava-try:hover {
+	background-color: #ff48fa;
+	transition: 900ms;
+}
+div.tri-odin {
+	padding: 25px 20px 20px 20px;
+}
+
+div.blog-content > div.glava-try > div.tri-odin {
+	float: left;
+	width: 23%;
+}
+div.blog-content > div.glava-try > div.tri-dva {
+	float: left;
+	width: 65%;
+}
+div.blog-content > div.glava-try > div.tri-tri {
+	clear: both;
+}
+div.glava-chetyri {
+	width: 800px;
+	min-height: 200px;
+	margin: 50px 20px 20px 40px;
+	padding: 5px;
+	border-radius: 30px;
+	box-shadow: 10px 10px 30px #5d5d5d;
+	background-color: #ffa838;
+	transition: 900ms;
+}
+div.glava-chetyri:hover {
+	background-color: #ffa002;
+	transition: 900ms;
+}
+div.chetyre-odin {
+	padding: 0px 20px 20px 20px;
+}
+
+div.blog-content > div.glava-chetyri > div.chetyre-odin {
+	float: left;
+	width: 30%;
+}
+div.blog-content > div.glava-chetyri > div.chetyre-dva {
+	float: left;
+	width: 59%;
+}
+div.blog-content > div.glava-chetyri > div.chetyre-tri {
+	clear: both;
+}
+div.glava-pyaty {
+	width: 800px;
+	min-height: 200px;
+	margin: 50px 20px 50px 40px;
+	padding: 5px;
+	border-radius: 30px;
+	box-shadow: 10px 10px 30px #5d5d5d;
+	background-color: #54ff9f;
+	transition: 900ms;
+}
+div.glava-pyaty:hover {
+	background-color: #06eca6;
+	transition: 900ms;
+}
+div.pyat-odin {
+	padding: 0px 0px 20px 20px;
+}
+
+div.blog-content > div.glava-pyaty > div.pyat-odin {
+	float: left;
+	width: 30%;
+}
+div.blog-content > div.glava-pyaty > div.pyat-dva {
+	float: left;
+	width: 59%;
+}
+div.blog-content > div.glava-pyaty > div.pyat-tri {
+	clear: both;
+}
+div.podval {
+	background-image: url("../images/zvezdy.jpg");
+	width: 900px;
+	min-height: 330px;
+	margin: 0 auto;
+}
+div.Guru {
+	font-size: 15pt;
+	padding: 120px 10px 20px 220px;
+	text-align: center;
+	font-weight: bold;
+	color: #e6e6fa;
+}
+table {
+	width: 100%;
+	border-collapse: collapse;
+}
+.tabliza.tabliza-stripped.green-lains tr:nth-child(odd) {
+	background-color: #f7f4f6;
+	text-align: center;
+	color: #00001e;
+	transition: 900ms;
+}
+.tabliza.tabliza-stripped.green-lains tr:hover {
+	background-color: #b2ffb8;
+	transition: 900ms;
+}
+.tabliza.tabliza-stripped tr:nth-child(even) {
+	background-color: #e4f4f6;
+	text-align: center;
+	color: #00001e;
+	transition: 900ms;
+}
+div.blog-content > h1 {
+	color: #0000f9;
+}
+.Bogi > div {
+	border: 2px solid red;
+	margin-top: 10px;
+	padding: 5px;
+	height: 10px;
+	display: inline-table;
+}

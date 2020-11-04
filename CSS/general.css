@@ -1,0 +1,15 @@
+body { 
+	/background-color: #b0c2f4;
+	background-image: url("../images/Omchik_mm.jpg");
+	font-size: 10pt;
+	font-family: Tahoma, serif;
+	color: #191970;
+	margin: 0; padding: 0;
+	background-attachment: fixed; 
+}
+div.foto > div {
+	box-shadow: 0 0 15px; #E6E6FA;
+	background-image: url("../images/Bhagawan_Datta.jpg");
+	background-repeat:no-repeat;
+	background-color: #FFDAB9;
+}
